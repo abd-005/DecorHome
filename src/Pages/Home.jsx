@@ -1,8 +1,9 @@
 import React from 'react';
 
 const Home = () => {
+    // console.log(odfgoipkdmfdg)
     return (
-        <div>
+        <div >
             Home
         </div>
     );
