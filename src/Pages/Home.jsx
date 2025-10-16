@@ -7,7 +7,7 @@ const Home = () => {
     // console.log(odfgoipkdmfdg)
     const {products} = useProducts();
 
-    const featuredProducts = products.slice(0,6);
+    const featuredProducts = products.slice(0,6); //render 6 elements only
     
     return (
          <div>
